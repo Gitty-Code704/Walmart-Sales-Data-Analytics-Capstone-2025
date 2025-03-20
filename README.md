@@ -1,11 +1,11 @@
-Walmart Sales Data Analytics Project 2025
+# Walmart Sales Data Analytics Project 2025
 
-Project Overview
+# Project Overview
 
 This project analyzes Walmart sales data to uncover insights into customer purchasing behavior, seasonal trends, and product performance. The dataset is processed, cleaned, and visualized using Python, Pandas, Matplotlib, and Seaborn.
 
 
-Data Sources
+# Data Sources
 
 cleaned_walmart_data.csv: cleaned dataset after preprocessing.
 
@@ -16,7 +16,7 @@ combined_walmart_data.csv: Merged data from cleaned_walmart_data and cleaned_wal
 Walmart Sales Jupyter Notebook.ipynb: The Jupyter Notebook used for data analysis.
 
 
-Tools & Technologies Used
+# Tools & Technologies Used
 
 Jupyter Notebook: Interactive environment for code execution and analysis.
 
@@ -29,7 +29,7 @@ ScalarFormatter: Used for formatting axis labels in Matplotlib visualizations.
 Tableau: To view advanced visualizations and dashboard (optional)
 
 
-Key Analyses
+# Key Analyses
 
 Customer Spending Patterns
 
@@ -48,7 +48,7 @@ Sales Trends & Seasonal Insights
 Evaluated sales across holidays and non-holiday periods.
 
 
-How to Use the Project
+# How to Use the Project
 
 Run the Jupyter Notebook to perform data cleaning and basic visualizations.
 
@@ -57,7 +57,7 @@ Use Tableau Dashboards to interactively explore insights (optional).
 Modify Python scripts for custom analysis.
 
 
-Future Improvements
+# Future Improvements
 
 Integrate machine learning for predictive analytics.
 
@@ -66,7 +66,7 @@ Expand the dataset with external economic indicators.
 Automate data updates for real-time analysis.
 
 
-Author
+# Author
 
 Kyisha Hardwick
 
