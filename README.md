@@ -24,7 +24,7 @@ myenv: A custom virtual environment for dependency management and reproducibilit
 
 Python (Pandas,Matplotlib, and Seaborn): Data cleaning, manipulation, and basic visualizations.
 
-ScalarFormatter: Used for formatting axis labels in Matplotlib visualizations.
+ScalarFormatter: Used for formatting axis labels in Matplotlib visualizations (already included).
 
 Tableau: To view advanced visualizations and dashboard (optional)
 
