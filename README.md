@@ -2,14 +2,17 @@
 
 # Project Overview
 
-This project analyzes Walmart sales data to uncover insights into customer purchasing behavior, seasonal trends, and product performance. The dataset is processed, cleaned, and visualized using Python, Pandas, Matplotlib, and Seaborn.
+This project analyzes Walmart sales data to uncover insights into customer purchasing behavior, seasonal trends, and product performance. The dataset is processed, cleaned, and visualized using relative path files, Python, Pandas, Matplotlib, and Seaborn.
 
 
 # Data Sources
+Dataset_1.zip (walmart.csv)
 
-cleaned_walmart_data.csv: cleaned dataset after preprocessing.
+Dataset_2.zip (walmart.csv)
 
-cleaned_walmart_sales_data.csv: cleaned dataser after preprocessing
+cleaned_walmart_data.csv: cleaned data after preprocessing.
+
+cleaned_walmart_sales_data.csv: cleaned data after preprocessing
 
 combined_walmart_data.csv: Merged data from cleaned_walmart_data and cleaned_walmart_sales_data.
 
@@ -51,6 +54,8 @@ Evaluated sales across holidays and non-holiday periods.
 # How to Use the Project
 
 Run the Jupyter Notebook to perform data cleaning and basic visualizations.
+
+Confirm base directory and file names to import datsets via relative file paths
 
 Use Tableau Dashboards to interactively explore insights (optional).
 
