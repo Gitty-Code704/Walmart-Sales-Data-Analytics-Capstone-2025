@@ -6,9 +6,9 @@ This project analyzes Walmart sales data to uncover insights into customer purch
 
 
 # Data Sources
-Dataset_1.zip (walmart.csv)
+Dataset_1.zip (walmart.csv) (raw data)
 
-Dataset_2.zip (walmart.csv)
+Dataset_2.zip (walmart.csv) (raw data)
 
 cleaned_walmart_data.csv: cleaned data after preprocessing.
 
@@ -29,8 +29,6 @@ Python (Pandas,Matplotlib, and Seaborn): Data cleaning, manipulation, and basic 
 
 ScalarFormatter: Used for formatting axis labels in Matplotlib visualizations (already included).
 
-Tableau: To view advanced visualizations and dashboard (optional)
-
 
 # Key Analyses
 
@@ -44,22 +42,23 @@ Product Performance
 
 Identified top-selling product categories.
 
-Analyzed revenue trends by category.
-
 Sales Trends & Seasonal Insights
 
 Evaluated sales across holidays and non-holiday periods.
 
 
 # How to Use the Project
+setup environment: (virtual) myenv, python 3.10.12, pandas 2.0.3, ZIPfile, matplotlib, seaborn
 
-Run the Jupyter Notebook to perform data cleaning and basic visualizations.
+source myenv/Scripts/activate (command activates the virtual environment)
+
+pip install pandas matplotlib seaborn command (scalarformatter included in matplotlib)
 
 Confirm base directory and file names to import datsets via relative file paths
 
-Use Tableau Dashboards to interactively explore insights (optional).
+Relative paths will save files to extracted_files and base directories
 
-Modify Python scripts for custom analysis.
+Run the Jupyter Notebook to perform data cleaning and basic visualizations.
 
 
 # Future Improvements
