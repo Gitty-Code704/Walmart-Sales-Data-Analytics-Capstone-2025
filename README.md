@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project analyzes Walmart sales data to uncover insights into customer purchasing behavior, seasonal trends, and product performance. The dataset is processed, cleaned, and visualized using relative path files, Python, Pandas, Matplotlib, and Seaborn.
+This project analyzes Walmart sales data to uncover insights into customer purchasing behavior, seasonal trends, and product performance. The dataset is processed, cleaned, and visualized using the OS module to manage relative path files, Python, Pandas, Matplotlib, and Seaborn.
 
 
 # Data Sources
@@ -24,6 +24,8 @@ Walmart Sales Jupyter Notebook.ipynb: The Jupyter Notebook used for data analysi
 Jupyter Notebook: Interactive environment for code execution and analysis.
 
 myenv: A custom virtual environment for dependency management and reproducibility.
+
+OS module for managing relative files
 
 Python (Pandas,Matplotlib, and Seaborn): Data cleaning, manipulation, and basic visualizations.
 
